@@ -167,6 +167,16 @@ The landing page is fully responsive across three main breakpoints:
 - **CSS3**: Custom properties, Grid, Flexbox
 - **Google Fonts**: Inter font family
 
+## 🧰 Primary Frontend Stack Used
+
+- **Framework**: React 18.2 (SPA)
+- **Dev/Build Tool**: Vite 5 + @vitejs/plugin-react
+- **Routing**: React Router DOM 6.20
+- **Styling**: CSS (variables, Flexbox, Grid) with modular component/section styles
+- **Language**: Modern JavaScript (ES Modules)
+- **Node Runtime**: Node.js 18+ with npm scripts
+- **Build Output**: Static site in `dist` suitable for Netlify/Vercel
+
 ## 📦 Deployment
 
 
